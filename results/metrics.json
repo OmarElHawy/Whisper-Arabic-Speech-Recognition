@@ -1,0 +1,9 @@
+{
+  "wer": 0.3215,
+  "cer": 0.1114,
+  "hits": 3671,
+  "substitutions": 1377,
+  "deletions": 165,
+  "insertions": 134,
+  "total_words": 5213
+}
